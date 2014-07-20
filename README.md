@@ -1,10 +1,20 @@
 guitarpractice
 ==============
 
-One handed tapping examples
----------------------------
+One handed tapping
+------------------
 
 Hella - Biblical Violence - http://tabs.ultimate-guitar.com/h/hella/biblical_violence_tab.htm
 
-Two handed tapping examples
----------------------------
+Two handed tapping
+------------------
+
+Fourth finger
+-------------
+
+Legato Lower
+------------
+
+Stone Roses - Driving South - 
+
+
