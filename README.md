@@ -17,4 +17,7 @@ Legato Lower
 
 Stone Roses - Driving South - 
 
+General Lessons From Guitarists
+-------------------------------
 
+Theodore Ziras - http://www.theodoreziras.com/
