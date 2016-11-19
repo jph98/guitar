@@ -1,4 +1,4 @@
-## Planet Rock Playlist 
+## Rock Playlist 
 
 Kansas - Carry On My Wayward Son
 https://tabs.ultimate-guitar.com/k/kansas/carry_on_my_wayward_son_ver2_tab.htm
@@ -20,6 +20,9 @@ https://tabs.ultimate-guitar.com/c/carlos_santana/maria_maria_tab.htm
 
 The Smiths - How Soon is Now
 https://tabs.ultimate-guitar.com/t/the_smiths/how_soon_is_now_ver2_tab.htm
+
+Faith No More Epic 
+https://tabs.ultimate-guitar.com/f/faith_no_more/epic_tab.htm
 
 Genesis
 
