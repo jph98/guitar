@@ -52,3 +52,6 @@ https://tabs.ultimate-guitar.com/i/iron_maiden/aces_high_ver9_tab.htm
 
 Seventh Son
 https://tabs.ultimate-guitar.com/i/iron_maiden/seventh_son_of_a_seventh_son_album_tab.htm
+
+Crazy Train 
+https://tabs.ultimate-guitar.com/o/ozzy_osbourne/crazy_train_ver2_tab.htm
