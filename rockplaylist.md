@@ -49,3 +49,6 @@ https://www.songsterr.com/a/wsa/iron-maiden-fear-of-the-dark-tab-g-s86181
 
 Aces High
 https://tabs.ultimate-guitar.com/i/iron_maiden/aces_high_ver9_tab.htm
+
+Seventh Son
+https://tabs.ultimate-guitar.com/i/iron_maiden/seventh_son_of_a_seventh_son_album_tab.htm
