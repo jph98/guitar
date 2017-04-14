@@ -24,9 +24,11 @@ https://tabs.ultimate-guitar.com/t/the_smiths/how_soon_is_now_ver2_tab.htm
 Faith No More Epic 
 https://tabs.ultimate-guitar.com/f/faith_no_more/epic_tab.htm
 
-Genesis
+Danko Jones - Play The Blues
+https://tabs.ultimate-guitar.com/d/danko_jones/play_the_blues_tab.htm
 
-Paul Simon
+Danko Jones - Lovercall
+https://tabs.ultimate-guitar.com/d/danko_jones/lover_call_tab.htm
 
 ## Indie Playlist
 
