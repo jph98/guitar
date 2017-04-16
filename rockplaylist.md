@@ -38,6 +38,12 @@ https://tabs.ultimate-guitar.com/m/mansun/wide_open_space_tab.htm
 Shed Seven - Going For Gold
 https://tabs.ultimate-guitar.com/s/shed_seven/going_for_gold_tab.htm
 
+Skunk Anansie - Weak
+https://tabs.ultimate-guitar.com/s/skunk_anansie/weak_tab.htm
+
+Skunk Anansie - Brazen
+https://tabs.ultimate-guitar.com/s/skunk_anansie/brazen_tab.htm
+
 ## Hard Rock/Metal
 
 2 Minutes to Midnight
