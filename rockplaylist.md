@@ -21,11 +21,17 @@ https://tabs.ultimate-guitar.com/c/carlos_santana/maria_maria_tab.htm
 The Smiths - How Soon is Now
 https://tabs.ultimate-guitar.com/t/the_smiths/how_soon_is_now_ver2_tab.htm
 
-Faith No More Epic 
+Faith No More - Epic 
 https://tabs.ultimate-guitar.com/f/faith_no_more/epic_tab.htm
+
+Faith No More - Zombie Eaters
+https://tabs.ultimate-guitar.com/f/faith_no_more/zombie_eaters_tab.htm
 
 Danko Jones - Play The Blues
 https://tabs.ultimate-guitar.com/d/danko_jones/play_the_blues_tab.htm
+
+Faith No More - Surprise You're Dead
+https://tabs.ultimate-guitar.com/f/faith_no_more/surprise_youre_dead_tab.htm
 
 Danko Jones - Lovercall
 https://tabs.ultimate-guitar.com/d/danko_jones/lover_call_tab.htm
