@@ -24,6 +24,9 @@ https://tabs.ultimate-guitar.com/t/the_smiths/how_soon_is_now_ver2_tab.htm
 Faith No More - Epic 
 https://tabs.ultimate-guitar.com/f/faith_no_more/epic_tab.htm
 
+Metallica - Nothing Else Matters
+https://tabs.ultimate-guitar.com/m/metallica/nothing_else_matters_tab.htm
+
 Faith No More - Zombie Eaters
 https://tabs.ultimate-guitar.com/f/faith_no_more/zombie_eaters_tab.htm
 
