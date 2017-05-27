@@ -39,6 +39,9 @@ https://tabs.ultimate-guitar.com/f/faith_no_more/surprise_youre_dead_tab.htm
 Danko Jones - Lovercall
 https://tabs.ultimate-guitar.com/d/danko_jones/lover_call_tab.htm
 
+Alice Cooper - Feed My Frankenstein
+https://tabs.ultimate-guitar.com/a/alice_cooper/feed_my_frankenstein_ver4_tab.htm
+
 ## Indie Playlist
 
 Mansun - Wide Open Space
