@@ -42,6 +42,9 @@ https://tabs.ultimate-guitar.com/d/danko_jones/lover_call_tab.htm
 Alice Cooper - Feed My Frankenstein
 https://tabs.ultimate-guitar.com/a/alice_cooper/feed_my_frankenstein_ver4_tab.htm
 
+Alice Cooper - Snakebite
+https://www.songsterr.com/a/wsa/alice-cooper-snakebite-tab-g-s1076
+
 ## Indie Playlist
 
 Mansun - Wide Open Space
@@ -78,3 +81,12 @@ https://tabs.ultimate-guitar.com/i/iron_maiden/seventh_son_of_a_seventh_son_albu
 
 Crazy Train 
 https://tabs.ultimate-guitar.com/o/ozzy_osbourne/crazy_train_ver2_tab.htm
+
+## More Metal
+
+Rob Zombie - Living Dead Girl
+https://tabs.ultimate-guitar.com/r/rob_zombie/living_dead_girl_ver2_tab.htm
+
+Metallica - Nothing Else Matters
+https://tabs.ultimate-guitar.com/m/metallica/nothing_else_matters_tab.htm
+
