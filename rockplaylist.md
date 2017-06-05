@@ -61,6 +61,12 @@ https://tabs.ultimate-guitar.com/s/skunk_anansie/brazen_tab.htm
 
 ## Hard Rock/Metal
 
+Plush
+https://tabs.ultimate-guitar.com/s/stone_temple_pilots/plush_tab.htm
+
+Sleep Now in the Fire 
+https://www.azchords.com/r/rageagainstthemachine-tabs-3181/sleepnowinthefireriff-tabs-33984.html
+
 2 Minutes to Midnight
 https://tabs.ultimate-guitar.com/i/iron_maiden/2_minutes_to_midnight_ver2_tab.htm
 
