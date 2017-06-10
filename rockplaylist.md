@@ -45,6 +45,15 @@ https://tabs.ultimate-guitar.com/a/alice_cooper/feed_my_frankenstein_ver4_tab.ht
 Alice Cooper - Snakebite
 https://www.songsterr.com/a/wsa/alice-cooper-snakebite-tab-g-s1076
 
+
+## Clean Rock/Acoustic
+
+The Beatles - Something 
+https://tabs.ultimate-guitar.com/t/the_beatles/something_tab.htm
+
+Carry That Weight
+https://tabs.ultimate-guitar.com/t/the_beatles/carry_that_weight_tab.htm
+
 ## Indie Playlist
 
 Mansun - Wide Open Space
