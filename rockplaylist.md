@@ -45,6 +45,8 @@ https://tabs.ultimate-guitar.com/a/alice_cooper/feed_my_frankenstein_ver4_tab.ht
 Alice Cooper - Snakebite
 https://www.songsterr.com/a/wsa/alice-cooper-snakebite-tab-g-s1076
 
+Red Hot Chilli Peppers - Mellowship Slinky in B Major
+https://tabs.ultimate-guitar.com/r/red_hot_chili_peppers/mellowship_slinky_in_b_major_ver2_tab.htm
 
 ## Clean Rock/Acoustic
 
