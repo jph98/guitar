@@ -107,3 +107,14 @@ https://tabs.ultimate-guitar.com/r/rob_zombie/living_dead_girl_ver2_tab.htm
 Metallica - Nothing Else Matters
 https://tabs.ultimate-guitar.com/m/metallica/nothing_else_matters_tab.htm
 
+Papa Roach - Infest 
+https://tabs.ultimate-guitar.com/p/papa_roach/infest_tab.htm
+
+Billy Talent - Worker Bees  
+https://tabs.ultimate-guitar.com/b/billy_talent/worker_bees_ver3_tab.htm
+
+Billy Talent - Fallen Leaves
+https://tabs.ultimate-guitar.com/b/billy_talent/fallen_leaves_tab.htm
+
+Billy Talent - Where is the Line
+https://tabs.ultimate-guitar.com/b/billy_talent/where_is_the_line_tab.htm
