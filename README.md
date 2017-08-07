@@ -100,20 +100,8 @@ https://tabs.ultimate-guitar.com/i/iron_maiden/seventh_son_of_a_seventh_son_albu
 Crazy Train 
 https://tabs.ultimate-guitar.com/o/ozzy_osbourne/crazy_train_ver2_tab.htm
 
-Hum - Stars 
-https://tabs.ultimate-guitar.com/h/hum/stars_ver4_tab.htm
-
-Failure - Undone
-https://tabs.ultimate-guitar.com/f/failure/undone_tab.htm
-
 Black Sabbath - Children of the Grave
 https://tabs.ultimate-guitar.com/b/black_sabbath/children_of_the_grave_ver2_tab.htm
-
-Jets of Brazil - Crown of the Valley
-https://tabs.ultimate-guitar.com/j/jets_to_brazil/crown_of_the_valley_tab.htm
-
-Drive Like Jehu - Caress
-https://tabs.ultimate-guitar.com/d/drive_like_jehu/caress_tab.htm
 
 Ash - Lose Control
 https://tabs.ultimate-guitar.com/a/ash/lose_control_tab.htm
@@ -136,6 +124,35 @@ https://tabs.ultimate-guitar.com/a/alkaline_trio/steamer_trunk_tab.htm
 
 Head Automatica - Brooklyn is Burning
 https://tabs.ultimate-guitar.com/h/head_automatica/brooklyn_is_burning_ver2_tab.htm
+
+## Prog/Alt Rock
+
+Hum - Stars 
+https://tabs.ultimate-guitar.com/h/hum/stars_ver4_tab.htm
+
+Failure - Undone
+https://tabs.ultimate-guitar.com/f/failure/undone_tab.htm
+
+Drive Like Jehu - Step on Chamelon
+http://www.xtrmntr.com/rockettabs/tabs/steponchameleon.html
+
+Slint - Breadcrumb Trail
+https://tabs.ultimate-guitar.com/s/slint/breadcrumb_trail_tab.htm
+
+Jets of Brazil - Crown of the Valley
+https://tabs.ultimate-guitar.com/j/jets_to_brazil/crown_of_the_valley_tab.htm
+
+Drive Like Jehu - Caress
+https://tabs.ultimate-guitar.com/d/drive_like_jehu/caress_tab.htm
+
+Slint - Washer
+https://tabs.ultimate-guitar.com/s/slint/washer_tab.htm
+
+These Arms Are Snakes - Horse Girl
+https://tabs.ultimate-guitar.com/t/these_arms_are_snakes/horse_girl_tab.htm
+
+These Arms Are Snakes - Subtle Body
+https://tabs.ultimate-guitar.com/t/these_arms_are_snakes/subtle_body_tab.htm
 
 ## Metal
 
