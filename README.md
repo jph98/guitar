@@ -173,3 +173,35 @@ https://tabs.ultimate-guitar.com/b/billy_talent/fallen_leaves_tab.htm
 
 Billy Talent - Where is the Line
 https://tabs.ultimate-guitar.com/b/billy_talent/where_is_the_line_tab.htm
+
+## Ska/Punk
+
+Goldfinger - Superman
+https://tabs.ultimate-guitar.com/g/goldfinger/superman_ver3_tab.htm
+
+Rancid - Time Bomb
+https://tabs.ultimate-guitar.com/r/rancid/time_bomb_ver3_tab.htm
+
+Rancid - Ruby Soho
+https://tabs.ultimate-guitar.com/r/rancid/ruby_soho_tab.htm
+
+Rancid - Olympia
+https://tabs.ultimate-guitar.com/r/rancid/olympia_wa_ver2_tab.htm
+
+RX Bandits - What If
+https://tabs.ultimate-guitar.com/r/rx_bandits/what_if_tab.htm
+
+RX Bandits - Gun in Your Hand
+https://tabs.ultimate-guitar.com/r/rx_bandits/gun_in_your_hand_tab.htm
+
+RX Bandits - Wrong With Me
+
+## Math Rock
+
+You Slut - Why Pourquoi - I Think I Like You
+https://tabs.ultimate-guitar.com/s/slut/why_pourquoi_i_think_i_like_you_tab.htm
+
+## Gothic Rock
+
+The Cure - Lullaby
+https://tabs.ultimate-guitar.com/t/the_cure/lullaby_ver3_tab.htm
