@@ -50,6 +50,18 @@ https://www.songsterr.com/a/wsa/alice-cooper-snakebite-tab-g-s1076
 Red Hot Chilli Peppers - Mellowship Slinky in B Major
 https://tabs.ultimate-guitar.com/r/red_hot_chili_peppers/mellowship_slinky_in_b_major_ver2_tab.htm
 
+Fall Out Boy - Sugar We're Going down
+https://tabs.ultimate-guitar.com/f/fall_out_boy/sugar_were_going_down_ver2_tab.htm
+
+Are You Going To Be My Girl 
+https://tabs.ultimate-guitar.com/j/jet/are_you_gonna_be_my_girl_ver7_tab.htm
+
+Spin Doctors - Two Princes
+https://tabs.ultimate-guitar.com/s/spin_doctors/two_princes_tab.htm
+
+Soundgarden - Spoonman 
+https://tabs.ultimate-guitar.com/s/soundgarden/spoonman_ver2_tab.htm
+
 ## Clean Rock/Acoustic
 
 The Beatles - Something 
