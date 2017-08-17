@@ -2,6 +2,9 @@
 
 ## Rock Playlist 
 
+The Cult - Lil Devil
+https://tabs.ultimate-guitar.com/t/the_cult/lil_devil_tab.htm
+
 Kansas - Carry On My Wayward Son
 https://tabs.ultimate-guitar.com/k/kansas/carry_on_my_wayward_son_ver2_tab.htm
 
@@ -23,24 +26,6 @@ https://tabs.ultimate-guitar.com/c/carlos_santana/maria_maria_tab.htm
 The Smiths - How Soon is Now
 https://tabs.ultimate-guitar.com/t/the_smiths/how_soon_is_now_ver2_tab.htm
 
-Faith No More - Epic 
-https://tabs.ultimate-guitar.com/f/faith_no_more/epic_tab.htm
-
-Metallica - Nothing Else Matters
-https://tabs.ultimate-guitar.com/m/metallica/nothing_else_matters_tab.htm
-
-Faith No More - Zombie Eaters
-https://tabs.ultimate-guitar.com/f/faith_no_more/zombie_eaters_tab.htm
-
-Danko Jones - Play The Blues
-https://tabs.ultimate-guitar.com/d/danko_jones/play_the_blues_tab.htm
-
-Faith No More - Surprise You're Dead
-https://tabs.ultimate-guitar.com/f/faith_no_more/surprise_youre_dead_tab.htm
-
-Danko Jones - Lovercall
-https://tabs.ultimate-guitar.com/d/danko_jones/lover_call_tab.htm
-
 Alice Cooper - Feed My Frankenstein
 https://tabs.ultimate-guitar.com/a/alice_cooper/feed_my_frankenstein_ver4_tab.htm
 
@@ -50,17 +35,11 @@ https://www.songsterr.com/a/wsa/alice-cooper-snakebite-tab-g-s1076
 Red Hot Chilli Peppers - Mellowship Slinky in B Major
 https://tabs.ultimate-guitar.com/r/red_hot_chili_peppers/mellowship_slinky_in_b_major_ver2_tab.htm
 
-Fall Out Boy - Sugar We're Going down
-https://tabs.ultimate-guitar.com/f/fall_out_boy/sugar_were_going_down_ver2_tab.htm
-
 Are You Going To Be My Girl 
 https://tabs.ultimate-guitar.com/j/jet/are_you_gonna_be_my_girl_ver7_tab.htm
 
 Spin Doctors - Two Princes
 https://tabs.ultimate-guitar.com/s/spin_doctors/two_princes_tab.htm
-
-Soundgarden - Spoonman 
-https://tabs.ultimate-guitar.com/s/soundgarden/spoonman_ver2_tab.htm
 
 ## Clean Rock/Acoustic
 
@@ -85,6 +64,39 @@ Skunk Anansie - Brazen
 https://tabs.ultimate-guitar.com/s/skunk_anansie/brazen_tab.htm
 
 ## Hard Rock/Metal
+
+Fall Out Boy - Sugar We're Going down
+https://tabs.ultimate-guitar.com/f/fall_out_boy/sugar_were_going_down_ver2_tab.htm
+
+Soundgarden - Spoonman 
+https://tabs.ultimate-guitar.com/s/soundgarden/spoonman_ver2_tab.htm
+
+Faith Nore More - Everything's Ruined
+https://tabs.ultimate-guitar.com/f/faith_no_more/everythings_ruined_tab.htm
+
+Faith No More - A Small Victory
+https://www.cifraclub.com.br/faith-no-more/a-small-victory/
+
+Primus - Winonas Big Brown Beaver
+https://tabs.ultimate-guitar.com/p/primus/wynonas_big_brown_beaver_ver2_tab.htm
+
+Faith No More - Epic 
+https://tabs.ultimate-guitar.com/f/faith_no_more/epic_tab.htm
+
+Metallica - Nothing Else Matters
+https://tabs.ultimate-guitar.com/m/metallica/nothing_else_matters_tab.htm
+
+Faith No More - Zombie Eaters
+https://tabs.ultimate-guitar.com/f/faith_no_more/zombie_eaters_tab.htm
+
+Danko Jones - Play The Blues
+https://tabs.ultimate-guitar.com/d/danko_jones/play_the_blues_tab.htm
+
+Faith No More - Surprise You're Dead
+https://tabs.ultimate-guitar.com/f/faith_no_more/surprise_youre_dead_tab.htm
+
+Danko Jones - Lovercall
+https://tabs.ultimate-guitar.com/d/danko_jones/lover_call_tab.htm
 
 Plush
 https://tabs.ultimate-guitar.com/s/stone_temple_pilots/plush_tab.htm
@@ -116,14 +128,14 @@ https://tabs.ultimate-guitar.com/o/ozzy_osbourne/crazy_train_ver2_tab.htm
 Black Sabbath - Children of the Grave
 https://tabs.ultimate-guitar.com/b/black_sabbath/children_of_the_grave_ver2_tab.htm
 
-Ash - Lose Control
-https://tabs.ultimate-guitar.com/a/ash/lose_control_tab.htm
-
 Bad Religion - 21st Century Digital Boy
 https://tabs.ultimate-guitar.com/b/bad_religion/21st_century_digital_boy_tab_863012id_21082009date.htm
 
 No Knife - Academy Flight Song
 https://tabs.ultimate-guitar.com/n/no_knife/academy_flight_song_tab.htm
+
+White Zombie - Thunder Kiss 65 
+https://tabs.ultimate-guitar.com/w/white_zombie/thunder_kiss_65_ver2_tab.htm
 
 ## Punk
 Alkaline Trio - Mr Chainsaw
@@ -166,6 +178,12 @@ https://tabs.ultimate-guitar.com/t/these_arms_are_snakes/horse_girl_tab.htm
 
 These Arms Are Snakes - Subtle Body
 https://tabs.ultimate-guitar.com/t/these_arms_are_snakes/subtle_body_tab.htm
+
+Therapy - Nowhere
+https://tabs.ultimate-guitar.com/t/therapy/nowhere_tab.htm
+
+Therapy - Turn
+https://tabs.ultimate-guitar.com/t/therapy/turn_tab.htm
 
 ## Metal
 
