@@ -227,6 +227,17 @@ https://tabs.ultimate-guitar.com/r/rx_bandits/gun_in_your_hand_tab.htm
 
 RX Bandits - Wrong With Me
 
+## Kerrang Playlist
+
+Bowling for Soup - 1985
+https://tabs.ultimate-guitar.com/b/bowling_for_soup/1985_tab.htm
+
+Sum 41 - Fat Lip
+https://tabs.ultimate-guitar.com/s/sum_41/fat_lip_ver3_tab.htm
+
+Good Charlotte - Lifestyles
+https://tabs.ultimate-guitar.com/g/good_charlotte/lifestyles_of_the_rich_and_famous_tab.htm
+
 ## Math Rock
 
 You Slut - Why Pourquoi - I Think I Like You
