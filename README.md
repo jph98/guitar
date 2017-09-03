@@ -41,6 +41,16 @@ https://tabs.ultimate-guitar.com/j/jet/are_you_gonna_be_my_girl_ver7_tab.htm
 Spin Doctors - Two Princes
 https://tabs.ultimate-guitar.com/s/spin_doctors/two_princes_tab.htm
 
+Aerosmith - Fever
+https://www.songsterr.com/a/wsa/aerosmith-fever-tab-s24772t2
+
+Aerosmith - Get A Grip
+https://www.songsterr.com/a/wsa/aerosmith-get-a-grip-tab-s889t0
+
+Aerosmith - Eat the Rich
+https://tabs.ultimate-guitar.com/a/aerosmith/eat_the_rich_ver2_tab.htm
+
+
 ## Clean Rock/Acoustic
 
 The Beatles - Something 
@@ -150,6 +160,9 @@ https://tabs.ultimate-guitar.com/a/alkaline_trio/steamer_trunk_tab.htm
 Head Automatica - Brooklyn is Burning
 https://tabs.ultimate-guitar.com/h/head_automatica/brooklyn_is_burning_ver2_tab.htm
 
+Sum 41 - Still Waiting
+https://tabs.ultimate-guitar.com/s/sum_41/still_waiting_tab.htm
+
 ## Prog/Alt Rock
 
 Hum - Stars 
@@ -184,6 +197,19 @@ https://tabs.ultimate-guitar.com/t/therapy/nowhere_tab.htm
 
 Therapy - Turn
 https://tabs.ultimate-guitar.com/t/therapy/turn_tab.htm
+
+Rush - La Villa Strangiato
+https://www.songsterr.com/a/wsa/rush-la-villa-strangiato-tab-g-s16588
+
+Rush - Larger Bowl
+http://www.guitaretab.com/r/rush/89612.html
+
+Rush - New Man World
+https://tabs.ultimate-guitar.com/r/rush/new_world_man_tab.htm
+
+Rush - Fly By Night
+https://tabs.ultimate-guitar.com/r/rush/fly_by_night_ver2_tab.htm
+
 
 ## Metal
 
