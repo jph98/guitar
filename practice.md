@@ -2,20 +2,93 @@
 
 ## Overall Workout
 
-http://www.guitarplayer.com/guitar-player-101/1025/31-exercises-to-improve-your-playing-right-now--tab/53171
+* 5 minutes warmup (Dex1 and Dex2) x 5, vary rhythm here.  Use a metronome
+* Mode Chart - run through (on wall)
+* 5 minutes on chords
 
-## One handed tapping
+## Dex1
 
-* Hella - Biblical Violence - http://tabs.ultimate-guitar.com/h/hella/biblical_violence_tab.htm
+E|--------------------------------------------------------------1--2--3--4--
+B|--------------------------------------------------1--2--3--4--------------
+G|--------------------------------------1--2--3--4--------------------------
+D|--------------------------1--2--3--4--------------------------------------
+A|--------------1--2--3--4--------------------------------------------------
+E|--1--2--3--4--------------------------------------------------------------
 
+## Dex2
+
+E|-----------------------------------------------------2-----4--
+B|-----------------------------------------2-----4--1-----3-----
+G|-----------------------------2-----4--1-----3-----------------
+D|-----------------2-----4--1-----3-----------------------------
+A|-----2-----4--1-----3-----------------------------------------
+E|--1-----3-----------------------------------------------------
+
+## Minor Scale
+
+e|----------------------------5-7-8-|8-7-5-----------------------------| 
+B|----------------------5-6-8-------|------8-6-5-----------------------| 
+G|----------------4-5-7-------------|------------7-5-4-----------------| 
+D|------------5-7-------------------|------------------7-5-------------| 
+A|------5-7-8-----------------------|----------------------8-7-5-------| 
+E|5-7-8-----------------------------|----------------------------8-7-5-| 
+ 
 ## Fourth finger
 
-* TODO
+e|---------------|---------------|
+B|---------------|---------------|
+G|---------------|---------------|
+D|---------------|---------------|
+A|---------------|-1-2-3-4-3-4-3-|
+E|-1-2-3-4-3-4-3-|---------------|
 
 ## Legato Lower
 
 * TODO
 
-## General Lessons From Guitarists
+## Techniques
 
-Theodore Ziras - http://www.theodoreziras.com/
+* String Bending
+* Legato Technique
+* Minimum Movement
+* Finger Tapping
+* Fingerstyle -
+* Pinch Harmonics 
+* Tapped Harmonics 
+* Rolling 
+* Sweep Picking 
+* Harp Picking
+
+## Transcribing
+
+* Transcribe one song be ear
+
+## Repertoire
+
+* One easy song
+* One hard song
+
+## Chords
+
+## Intervals
+
+3rd. Min  Maj Min7 Maj7
+
+e|---|----|---|---|---|-5-|
+B|-8-|-8--|-9-|-8-|-8-|-8-|
+G|---|----|---|-7-|-7-|-7-|
+D|---|-9--|-9-|---|---|---|
+A|-7-|-7--|-7-|-7-|-7-|-7-|
+E|---|----|---|---|---|---|
+
+## Improvisation
+
+Improvisation over backing tracks 
+
+* E Minor - https://www.youtube.com/watch?v=BBZepOP0mvI
+* A Major - https://www.youtube.com/watch?v=upuAMLhmexE
+
+
+## Scale Exercises (To Copy)
+
+https://www.fretjam.com/guitar-scale-exercises.html
