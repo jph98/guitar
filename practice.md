@@ -7,6 +7,19 @@ https://tabby.pro/
 * 5 minutes warmup (Dex1 and Dex2) x 5, vary rhythm here.  Use a metronome
 * Mode Chart - run through (on wall)
 * 5 minutes on chords
+* Rest your little finger and anchor position on the pickup
+
+
+## String Skipping
+
+E|-----------------------------------------3--4---|
+B|-------------------------------3--4-------------|
+
+G|-------------------3--4-------------3--4--------|
+D|--------3--4-------------3--4-------------------|
+A|--------------3--4------------------------------|
+E|--3--4------------------------------------------|
+
 
 ## Dex1
 
