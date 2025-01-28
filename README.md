@@ -1,8 +1,6 @@
 # Practice
 
-https://tabby.pro/
-
-[]
+Used this for the tabs here - https://tabby.pro/
 
 ## Overall Workout
 
