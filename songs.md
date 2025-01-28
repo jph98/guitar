@@ -48,6 +48,17 @@ https://www.songsterr.com/a/wsa/aerosmith-get-a-grip-tab-s889t0
 Aerosmith - Eat the Rich
 https://tabs.ultimate-guitar.com/a/aerosmith/eat_the_rich_ver2_tab.htm
 
+Therapy - Nowhere https://tabs.ultimate-guitar.com/t/therapy/nowhere_tab.htm
+
+Therapy - Turn https://tabs.ultimate-guitar.com/t/therapy/turn_tab.htm
+
+Rush - La Villa Strangiato https://www.songsterr.com/a/wsa/rush-la-villa-strangiato-tab-g-s16588
+
+Rush - Larger Bowl http://www.guitaretab.com/r/rush/89612.html
+
+Rush - New Man World https://tabs.ultimate-guitar.com/r/rush/new_world_man_tab.htm
+
+Rush - Fly By Night https://tabs.ultimate-guitar.com/r/rush/fly_by_night_ver2_tab.htm
 
 ## Clean Rock/Acoustic
 
@@ -84,9 +95,6 @@ https://tabs.ultimate-guitar.com/f/faith_no_more/everythings_ruined_tab.htm
 
 Faith No More - A Small Victory
 https://www.cifraclub.com.br/faith-no-more/a-small-victory/
-
-Primus - Winonas Big Brown Beaver
-https://tabs.ultimate-guitar.com/p/primus/wynonas_big_brown_beaver_ver2_tab.htm
 
 Faith No More - Epic 
 https://tabs.ultimate-guitar.com/f/faith_no_more/epic_tab.htm
@@ -146,6 +154,7 @@ White Zombie - Thunder Kiss 65
 https://tabs.ultimate-guitar.com/w/white_zombie/thunder_kiss_65_ver2_tab.htm
 
 ## Punk
+
 Alkaline Trio - Mr Chainsaw
 https://tabs.ultimate-guitar.com/a/alkaline_trio/mr_chainsaw_ver2_crd.htm
 
@@ -160,54 +169,6 @@ https://tabs.ultimate-guitar.com/h/head_automatica/brooklyn_is_burning_ver2_tab.
 
 Sum 41 - Still Waiting
 https://tabs.ultimate-guitar.com/s/sum_41/still_waiting_tab.htm
-
-## Prog/Alt Rock
-
-Hum - Stars 
-https://tabs.ultimate-guitar.com/h/hum/stars_ver4_tab.htm
-
-Failure - Undone
-https://tabs.ultimate-guitar.com/f/failure/undone_tab.htm
-
-Drive Like Jehu - Step on Chamelon
-http://www.xtrmntr.com/rockettabs/tabs/steponchameleon.html
-
-Slint - Breadcrumb Trail
-https://tabs.ultimate-guitar.com/s/slint/breadcrumb_trail_tab.htm
-
-Jets of Brazil - Crown of the Valley
-https://tabs.ultimate-guitar.com/j/jets_to_brazil/crown_of_the_valley_tab.htm
-
-Drive Like Jehu - Caress
-https://tabs.ultimate-guitar.com/d/drive_like_jehu/caress_tab.htm
-
-Slint - Washer
-https://tabs.ultimate-guitar.com/s/slint/washer_tab.htm
-
-These Arms Are Snakes - Horse Girl
-https://tabs.ultimate-guitar.com/t/these_arms_are_snakes/horse_girl_tab.htm
-
-These Arms Are Snakes - Subtle Body
-https://tabs.ultimate-guitar.com/t/these_arms_are_snakes/subtle_body_tab.htm
-
-Therapy - Nowhere
-https://tabs.ultimate-guitar.com/t/therapy/nowhere_tab.htm
-
-Therapy - Turn
-https://tabs.ultimate-guitar.com/t/therapy/turn_tab.htm
-
-Rush - La Villa Strangiato
-https://www.songsterr.com/a/wsa/rush-la-villa-strangiato-tab-g-s16588
-
-Rush - Larger Bowl
-http://www.guitaretab.com/r/rush/89612.html
-
-Rush - New Man World
-https://tabs.ultimate-guitar.com/r/rush/new_world_man_tab.htm
-
-Rush - Fly By Night
-https://tabs.ultimate-guitar.com/r/rush/fly_by_night_ver2_tab.htm
-
 
 ## Metal
 
@@ -262,12 +223,7 @@ https://tabs.ultimate-guitar.com/s/sum_41/fat_lip_ver3_tab.htm
 Good Charlotte - Lifestyles
 https://tabs.ultimate-guitar.com/g/good_charlotte/lifestyles_of_the_rich_and_famous_tab.htm
 
-## Math Rock
-
-You Slut - Why Pourquoi - I Think I Like You
-https://tabs.ultimate-guitar.com/s/slut/why_pourquoi_i_think_i_like_you_tab.htm
-
-## Gothic Rock
+## Post Punk
 
 The Cure - Lullaby
 https://tabs.ultimate-guitar.com/t/the_cure/lullaby_ver3_tab.htm
