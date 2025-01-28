@@ -14,8 +14,9 @@ Used this for the tabs here - https://tabby.pro/
 * Deftones - Sex Tape - https://tabs.ultimate-guitar.com/tab/deftones/sextape-tabs-981213
 * Deftones - Mein - https://www.songsterr.com/a/wsa/deftones-mein-e-standard-tab-s537935
 * Deftones - Cherry Waves - https://tabs.ultimate-guitar.com/tab/deftones/cherry-waves-tabs-476004
+* Deftones - U,U,D,D,L,R,L,R,A,B,Select,Start - https://tabs.ultimate-guitar.com/tab/deftones/u-u-d-d-l-r-l-r-a-b-select-start-tabs-437658
 
-### Songs that push your trechnique
+### Songs that push your technique
 
 * Billy Talent - Worker Bees - https://tabs.ultimate-guitar.com/b/billy_talent/worker_bees_ver3_tab.htm
 
