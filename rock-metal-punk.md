@@ -211,6 +211,7 @@ RX Bandits - Gun in Your Hand
 https://tabs.ultimate-guitar.com/r/rx_bandits/gun_in_your_hand_tab.htm
 
 RX Bandits - Wrong With Me
+https://tabs.guru/song/458186-wrong-with-me/tabs
 
 ## Kerrang Playlist
 
