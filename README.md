@@ -2,6 +2,19 @@
 
 Used this for the tabs here - https://tabby.pro/
 
+## Songs 
+
+[Bass Songs](bass.md)
+[Piano Songs](piano.md)
+[General GuitarSongs](songs.md)
+[Genre - Shoegaze](shoegaze.md)
+
+Specific
+
+* Deftones - Sex Tape - https://tabs.ultimate-guitar.com/tab/deftones/sextape-tabs-981213
+* Deftones - Mein - https://www.songsterr.com/a/wsa/deftones-mein-e-standard-tab-s537935
+* Deftones - Cherry Waves - https://tabs.ultimate-guitar.com/tab/deftones/cherry-waves-tabs-476004
+
 ## Overall Workout
 
 * 5 minutes warmup (Dex1 and Dex2) x 5, vary rhythm here.  Use a metronome
@@ -144,7 +157,3 @@ Improvisation over backing tracks
 
 * E Minor - https://www.youtube.com/watch?v=BBZepOP0mvI
 * A Major - https://www.youtube.com/watch?v=upuAMLhmexE
-
-## Songs
-
-* [metalsongs](songs-metal.md)
