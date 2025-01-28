@@ -17,3 +17,5 @@ Slint - Washer https://tabs.ultimate-guitar.com/s/slint/washer_tab.htm
 These Arms Are Snakes - Horse Girl https://tabs.ultimate-guitar.com/t/these_arms_are_snakes/horse_girl_tab.htm
 
 These Arms Are Snakes - Subtle Body https://tabs.ultimate-guitar.com/t/these_arms_are_snakes/subtle_body_tab.htm
+
+You Slut - Why Pourquoi - I Think I Like You - https://tabs.ultimate-guitar.com/s/slut/why_pourquoi_i_think_i_like_you_tab.htm
