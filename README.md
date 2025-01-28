@@ -6,7 +6,7 @@ Used this for the tabs here - https://tabby.pro/
 
 * [Bass Songs](bass.md)
 * [Piano Songs](piano.md)
-* [General GuitarSongs](songs.md)
+* [General Guitar Songs](songs.md)
 * [Genre - Shoegaze](shoegaze.md)
 
 Specific
