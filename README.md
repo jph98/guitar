@@ -6,14 +6,18 @@ Used this for the tabs here - https://tabby.pro/
 
 * [Bass Songs](bass.md)
 * [Piano Songs](piano.md)
-* [General Guitar Songs](songs.md)
+* [General Guitar Songs](rock-metal-punk.md)
 * [Genre - Shoegaze](shoegaze.md)
 
-Specific
+### Ambient/Shoegaze - Influence
 
 * Deftones - Sex Tape - https://tabs.ultimate-guitar.com/tab/deftones/sextape-tabs-981213
 * Deftones - Mein - https://www.songsterr.com/a/wsa/deftones-mein-e-standard-tab-s537935
 * Deftones - Cherry Waves - https://tabs.ultimate-guitar.com/tab/deftones/cherry-waves-tabs-476004
+
+### Songs that push your trechnique
+
+* Billy Talent - Worker Bees - https://tabs.ultimate-guitar.com/b/billy_talent/worker_bees_ver3_tab.htm
 
 ## Overall Workout
 
