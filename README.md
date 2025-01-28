@@ -13,6 +13,7 @@ Used this for the tabs here - https://tabby.pro/
 
 C Standard
 * Deftones - Sex Tape - https://tabs.ultimate-guitar.com/tab/deftones/sextape-tabs-981213
+* Deftones - Beauty School - https://tabs.ultimate-guitar.com/tab/deftones/beauty-school-tabs-998626
 
 Drop D 
 * Deftones - Cherry Waves - https://tabs.ultimate-guitar.com/tab/deftones/cherry-waves-tabs-476004
