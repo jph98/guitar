@@ -11,9 +11,16 @@ Used this for the tabs here - https://tabby.pro/
 
 ### Ambient/Shoegaze - Influence
 
+C Standard
 * Deftones - Sex Tape - https://tabs.ultimate-guitar.com/tab/deftones/sextape-tabs-981213
-* Deftones - Mein - https://www.songsterr.com/a/wsa/deftones-mein-e-standard-tab-s537935
+
+Drop D 
 * Deftones - Cherry Waves - https://tabs.ultimate-guitar.com/tab/deftones/cherry-waves-tabs-476004
+
+E Standard
+* Deftones - Mein - https://www.songsterr.com/a/wsa/deftones-mein-e-standard-tab-s537935
+
+This is good for timing practice
 * Deftones - U,U,D,D,L,R,L,R,A,B,Select,Start - https://tabs.ultimate-guitar.com/tab/deftones/u-u-d-d-l-r-l-r-a-b-select-start-tabs-437658
 
 ### Songs that push your technique
