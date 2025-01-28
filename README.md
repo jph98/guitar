@@ -1,4 +1,4 @@
-# Practice
+# Guitar Home
 
 Used this for the tabs here - https://tabby.pro/
 
@@ -11,22 +11,16 @@ Used this for the tabs here - https://tabby.pro/
 
 ### Ambient/Shoegaze - Influence
 
-C Standard
-* Deftones - Sex Tape - https://tabs.ultimate-guitar.com/tab/deftones/sextape-tabs-981213
-* Deftones - [Beauty School](deftones-beautyschool.md)
-
-Drop D 
-* Deftones - Cherry Waves - https://tabs.ultimate-guitar.com/tab/deftones/cherry-waves-tabs-476004
-
-E Standard
-* Deftones - Mein - https://www.songsterr.com/a/wsa/deftones-mein-e-standard-tab-s537935
-
-This is good for timing practice
-* Deftones - U,U,D,D,L,R,L,R,A,B,Select,Start - https://tabs.ultimate-guitar.com/tab/deftones/u-u-d-d-l-r-l-r-a-b-select-start-tabs-437658
+* (C) Deftones - Sex Tape - https://tabs.ultimate-guitar.com/tab/deftones/sextape-tabs-981213
+* (C) Deftones - [Beauty School](deftones-beautyschool.md)
+* (Drop D) Deftones - Cherry Waves - https://tabs.ultimate-guitar.com/tab/deftones/cherry-waves-tabs-476004
+* (Standard) Deftones - Mein - https://www.songsterr.com/a/wsa/deftones-mein-e-standard-tab-s537935
+* (Standard) Deftones - U,U,D,D,L,R,L,R,A,B,Select,Start - https://tabs.ultimate-guitar.com/tab/deftones/u-u-d-d-l-r-l-r-a-b-select-start-tabs-437658
 
 ### Songs that push your technique
 
 * Billy Talent - Worker Bees - https://tabs.ultimate-guitar.com/b/billy_talent/worker_bees_ver3_tab.htm
+* Billy Talent - Fallen Leaves - https://tabs.ultimate-guitar.com/tab/billy-talent/fallen-leaves-tabs-386257
 
 ## Overall Workout
 
