@@ -4,10 +4,10 @@ Used this for the tabs here - https://tabby.pro/
 
 ## Songs 
 
-[Bass Songs](bass.md)
-[Piano Songs](piano.md)
-[General GuitarSongs](songs.md)
-[Genre - Shoegaze](shoegaze.md)
+* [Bass Songs](bass.md)
+* [Piano Songs](piano.md)
+* [General GuitarSongs](songs.md)
+* [Genre - Shoegaze](shoegaze.md)
 
 Specific
 
