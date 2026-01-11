@@ -7,11 +7,19 @@ Used this for the tabs here - https://tabby.pro/
 * Rock / Hard Rock - https://www.youtube.com/watch?v=xkvuZRCYomU&t=619s
 * Prog Rock - https://www.youtube.com/watch?v=VU2ADjJOHdY
 * Metal - https://www.youtube.com/watch?v=ohRsz5GmAWM
+* Funk - https://www.youtube.com/watch?v=bD-QtFbDwS8
+* Funk (Frusciante) - https://www.youtube.com/watch?v=4D6GOw-0z0Y
 
 ## Techniques 
 
-Post Rock Arpeggios - https://www.youtube.com/watch?v=Wwffoxi1pUk
-Odd Time Tool Riffs - https://www.youtube.com/watch?v=JLJOE7BYP9k
+* Post Rock Arpeggios - https://www.youtube.com/watch?v=Wwffoxi1pUk
+* Odd Time Tool Riffs - https://www.youtube.com/watch?v=JLJOE7BYP9k
+
+## Bands
+
+* Queens of the Stone Age - https://www.youtube.com/watch?v=BKLYdZLZZpU&list=RDBKLYdZLZZpU&start_radio=1
+* Explosions (Chords) - https://www.youtube.com/watch?v=HbZwlUTRhf0&t=255s
+
 
 ## Songs 
 
