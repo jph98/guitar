@@ -2,13 +2,16 @@
 
 Used this for the tabs here - https://tabby.pro/
 
-## Genre Playlists
+## Genre Riff Playlists
 
 * Rock / Hard Rock - https://www.youtube.com/watch?v=xkvuZRCYomU&t=619s
+* Prog Rock - https://www.youtube.com/watch?v=VU2ADjJOHdY
+* Metal - https://www.youtube.com/watch?v=ohRsz5GmAWM
 
 ## Techniques 
 
 Post Rock Arpeggios - https://www.youtube.com/watch?v=Wwffoxi1pUk
+Odd Time Tool Riffs - https://www.youtube.com/watch?v=JLJOE7BYP9k
 
 ## Songs 
 
