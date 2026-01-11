@@ -2,6 +2,14 @@
 
 Used this for the tabs here - https://tabby.pro/
 
+## Genre Playlists
+
+* Rock / Hard Rock - https://www.youtube.com/watch?v=xkvuZRCYomU&t=619s
+
+## Techniques 
+
+Post Rock Arpeggios - https://www.youtube.com/watch?v=Wwffoxi1pUk
+
 ## Songs 
 
 * [Bass Songs](bass.md)
