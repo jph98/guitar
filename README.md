@@ -20,6 +20,9 @@ Used this for the tabs here - https://tabby.pro/
 * Queens of the Stone Age - https://www.youtube.com/watch?v=BKLYdZLZZpU&list=RDBKLYdZLZZpU&start_radio=1
 * Explosions (Chords) - https://www.youtube.com/watch?v=HbZwlUTRhf0&t=255s
 
+## Songs
+
+Mellowship (RHCP) - https://www.youtube.com/watch?v=_yda3Ca4Dho&list=RD_yda3Ca4Dho&start_radio=1
 
 ## Songs 
 
